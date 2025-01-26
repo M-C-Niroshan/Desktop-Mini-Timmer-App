@@ -60,11 +60,8 @@ $ npm run build:linux
 - [Electron-Vite Documentation](https://electron-vite.org/guide/)
 - [ElectronJS Documentation](https://www.electronjs.org/docs/latest)
 
-### Screenshots
+### Here are some Interface screenshots of the app:
 
-### Screenshots
-
-Here are some Interface screenshots of the app:
 
 ![Main Screen](./screenshots/main-screen.png)  
 **Main Screen:** The main screen features two buttons: "Start" and "Set Timer".

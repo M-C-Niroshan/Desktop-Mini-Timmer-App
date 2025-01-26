@@ -1,6 +1,6 @@
-# Timer App
+# Mini Timer App
 
-A simple desktop timer application built using **Electron**, **Vite**, **React**, and **Tailwind CSS**. This app allows users to set a timer using hours, minutes, and seconds. When the timer ends, an alert sound is played.
+A simple desktop timer application built using **Electron-Vite**, **React**, and **Tailwind CSS**. This app allows users to set a timer using hours, minutes, and seconds. When the timer ends, an alert sound is played.
 
 ---
 
@@ -24,15 +24,19 @@ A simple desktop timer application built using **Electron**, **Vite**, **React**
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/desktop-mini-timer-app.git
+    git clone https://github.com/M-C-Niroshan/Desktop-Mini-Timmer-App.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd desktop-mini-timer-app
+    cd timer-app
     ```
 3. Install dependencies:
     ```sh
     npm install
+    ```
+4. Run app:
+    ```sh
+    npm run start
     ```
 
 
@@ -46,7 +50,7 @@ A simple desktop timer application built using **Electron**, **Vite**, **React**
 
 ### Screenshots
 
-Here are some screenshots of the app:
+Here are some Interface screenshots of the app:
 
 ![Main Screen](./screenshots/main-screen.png)  
 **Main Screen:** The main screen features two buttons: "Start" and "Set Timer".
@@ -65,7 +69,3 @@ Here's a short demonstration of the app:
 
 [![App Demo](./screenshots/demo_thumbnail.png)](https://youtu.be/kie6t0B9MeE)
 
-
-### Contributing
-
-If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.

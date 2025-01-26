@@ -34,10 +34,24 @@ A simple desktop timer application built using **Electron-Vite**, **React**, and
     ```sh
     npm install
     ```
-4. Run app:
-    ```sh
-    npm run start
-    ```
+### Development
+
+```bash
+$ npm run dev
+```
+
+### Build
+
+```bash
+# For windows
+$ npm run build:win
+
+# For macOS
+$ npm run build:mac
+
+# For Linux
+$ npm run build:linux
+```
 
 
 ### References

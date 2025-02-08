@@ -80,3 +80,7 @@ Here's a short demonstration of the app:
 
 [![App Demo](./screenshots/demo_thumbnail.png)](https://youtu.be/kie6t0B9MeE)
 
+---
+
+### ⚠ Important Note
+- **Last Updated:** *2025-01-25*
